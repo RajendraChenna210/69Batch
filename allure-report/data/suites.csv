@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2","Test Suite for Important","chromium","2026-06-07","failed","2026-06-07","","TestSuite.spec.ts","",""
+"","4252","TC001_LoginLogout","chromium","2026-06-07","passed","2026-06-07","Test Suite for Important","TestSuite.spec.ts","",""
+"","7794","TC002_AddNewEmployee","chromium","2026-06-14","passed","2026-06-14","Test Suite for 69Batch","TestSuite.spec.ts","",""
+"","7747","TC002_AddNewEmployee","chromium","2026-06-07","passed","2026-06-07","Test Suite for Important","TestSuite.spec.ts","",""
+"","5166","TC001_LoginLogout","chromium","2026-06-07","passed","2026-06-07","","TC001.spec.ts","",""
+"","4109","TC001_LoginLogout","chromium","2026-06-14","passed","2026-06-14","Test Suite for 69Batch","TestSuite.spec.ts","",""
+"","7984","TC002_AddNewEmployee","chromium","2026-06-07","passed","2026-06-07","","TC002.spec.ts","",""
