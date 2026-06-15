@@ -12,7 +12,6 @@ public async openApplication() {
 //login into the application
 public async login() {
     await this.page.locator(this.textbox_loginname).fill(this.username);
-    await
     await this.page.locator(this.textbox_password).fill(this.password);
     await this.page.locator(this.button_login).click();
     console.log("Login Completed");
